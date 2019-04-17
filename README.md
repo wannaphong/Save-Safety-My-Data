@@ -10,7 +10,7 @@
 
 ## Safe and Sorry – Terrorism & Mass Surveillance
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V9_PjdU3Mpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Safe and Sorry – Terrorism & Mass Surveillance](https://img.youtube.com/vi/V9_PjdU3Mpo/0.jpg)](https://www.youtube-nocookie.com/embed/V9_PjdU3Mpo)
 
 ## มือถือ
 
