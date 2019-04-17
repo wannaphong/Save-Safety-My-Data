@@ -8,6 +8,10 @@
 
 นั้นเรามาเริ่มกันเลย !!!
 
+## Safe and Sorry – Terrorism & Mass Surveillance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V9_PjdU3Mpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## มือถือ
 
 มือถือเป็นอุปกรณ์ใกล้ตัวคุณมากที่สุด มันอำนวยความสะดวกให้คุณอย่างมากมาย รวมถึงมันยังสามารถเป็นสายลับที่คอยติดตามคุณได้ด้วย เรามาทำให้มือถือคุณปลอดภัยจากภัยคุมคามความเป็นส่วนตัวและความปลอดภัยของข้อมูลกัน
