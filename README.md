@@ -13,3 +13,7 @@
 ### มือถือ Android
 
 - เข้ารหัสข้อมูลบนมือถือ https://www.android1pro.com/th/encrypting-data-on-android-easily/
+
+## ข้อมูลเพิ่มเติม
+
+- Surveillance - Self-Defense  https://ssd.eff.org/th
